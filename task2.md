@@ -1,6 +1,6 @@
 ## Swisstronik Task Mint 100 ERC-20 tokens
 
-- Video Tutorial : 
+- Video Tutorial : https://youtu.be/Uz__0848W4A?si=AOoiQ3u1UfzK9sd5
 - My Channel Airdrop : https://t.me/bangpateng_airdrop
 - My Channel Bot and Script : https://t.me/winsnip
 
